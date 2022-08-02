@@ -1,0 +1,10 @@
+{
+  "name": "gwvk-js",
+  "version": "1.0.0",
+  "description": "Javascript API Wrapper for GetWVKeys",
+  "main": "dist\\index.js",
+  "repository": "https://github.com/GetWVKeys/gwvk-js.git",
+  "author": "Puyodead1 <puyodead@protonmail.com>",
+  "license": "MIT",
+  "private": false
+}
